@@ -1,4 +1,4 @@
-# The-Spark-Foundation-GRIPJUNE2021
+# The-Spark-Foundation-GRIP
 Data Science and Bussiness Analytics Internship Tasks
 
 This repository consist of the tasks given during my internship at The Sparks Foundation.
