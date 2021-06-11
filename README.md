@@ -11,7 +11,7 @@ Their Vision Statement : A world of enabled and connected little minds, building
 
 # TASKS
 
-## TASK 1: Prediction Using Supervised ML
+## TASK 1: Prediction Using Supervised Machine Learning
 
 ### Objective:
 Predict the percentage of a student based on the no. of study hours. What will be the predicted score if a student studies for 9.25 hrs/ day?
